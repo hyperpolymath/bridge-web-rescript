@@ -38,8 +38,12 @@ erl_crash.dump
 /Manifest.toml
 
 # ReScript
-/lib/bs/
+/lib/
 /.bsb.lock
+.merlin
+
+# npm (fallback only - prefer Deno)
+package-lock.json
 
 # Python (SaltStack only)
 __pycache__/
