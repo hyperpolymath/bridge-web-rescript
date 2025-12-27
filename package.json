@@ -5,7 +5,7 @@
   "scripts": {
     "build": "rescript build",
     "clean": "rescript clean",
-    "test": "node --test tests/bridge_test.mjs",
+    "test": "node --test tests/*.mjs",
     "check": "npm run build && npm run test"
   },
   "devDependencies": {
