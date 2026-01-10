@@ -1,9 +1,12 @@
-// SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+// SPDX-License-Identifier: PMPL-1.0 OR PMPL-1.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 = Bridge: Web-ReScript
 
-image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="https://www.gnu.org/licenses/agpl-3.0"] image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+
+
+
 :toc: macro
 :toc-title: Contents
 :toclevels: 3
@@ -18,7 +21,7 @@ A TypeScript-free Progressive Web Application framework. All frontend logic is w
 |Status |License |Accessibility |Runtime
 
 |*Specification*
-|MIT OR AGPL-3.0+
+|PMPL-1.0 OR PMPL-1.0+
 |WCAG 2.3 AAA
 |Deno + WASM
 |===
@@ -138,7 +141,7 @@ bridge-web-rescript/
 │   └── dependabot.yml    # Dependency updates
 ├── CODE_OF_CONDUCT.md    # Community standards
 ├── CONTRIBUTING.md       # Contribution guidelines
-├── LICENSE.txt           # MIT OR AGPL-3.0+ (dual license)
+├── LICENSE.txt           # PMPL-1.0 OR PMPL-1.0+ (dual license)
 ├── README.adoc           # This file
 ├── ROADMAP.adoc          # Development phases
 └── SECURITY.md           # Security policy
@@ -216,8 +219,8 @@ See link:SECURITY.md[SECURITY.md] for:
 
 Dual-licensed under your choice of:
 
-* **MIT License** - Maximum flexibility
-* **AGPL-3.0-or-later** - Copyleft for network services
+* **Palimpsest-MPL License v1.0 (PMPL-1.0)** - Maximum flexibility
+* **PMPL-1.0-or-later** - Copyleft for network services
 
 See link:LICENSE.txt[LICENSE.txt] for full terms.
 
