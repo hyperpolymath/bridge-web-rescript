@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+// SPDX-License-Identifier: PMPL-1.0 OR PMPL-1.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 = Bridge: Web-ReScript - Development Roadmap
@@ -40,7 +40,7 @@ toc::[]
 === Completed
 
 * [x] Repository structure and governance
-* [x] License selection (MIT OR AGPL-3.0+)
+* [x] License selection (PMPL-1.0 OR PMPL-1.0+)
 * [x] Security policy (SECURITY.md)
 * [x] Contribution guidelines (CONTRIBUTING.md)
 * [x] Code of conduct
